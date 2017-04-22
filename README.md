@@ -1,2 +1,0 @@
-# Arabisk
-Arabic

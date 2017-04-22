@@ -1,0 +1,494 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="==== Arabic Free ====" tvg-logo="" group-title="",==== Arabic Free ====
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Aloula Maroc" tvg-logo="" group-title="Arabic FTA",AR: Aloula Maroc
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL MAGHRIBIA" tvg-logo="" group-title="Arabic FTA",AR: AL MAGHRIBIA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL MAGHARIBIA TWO" tvg-logo="" group-title="Arabic FTA",AR: AL MAGHARIBIA TWO
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: 2m maroc" tvg-logo="" group-title="Arabic FTA",AR: 2m maroc
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alrrabia" tvg-logo="" group-title="Arabic FTA",AR: Alrrabia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Assadissa" tvg-logo="" group-title="Arabic FTA",AR: Assadissa
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Medi1 Maroc" tvg-logo="" group-title="Arabic FTA",AR: Medi1 Maroc
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tamazight" tvg-logo="" group-title="Arabic FTA",AR: Tamazight
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tamazight DZ" tvg-logo="" group-title="Arabic FTA",AR: Tamazight DZ
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: IQRAA" tvg-logo="" group-title="Arabic FTA",AR: IQRAA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI QUARAN" tvg-logo="" group-title="Arabic FTA",AR: SAUDI QUARAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC1" tvg-logo="" group-title="Arabic FTA",AR: MBC1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC2" tvg-logo="" group-title="Arabic FTA",AR: MBC2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC3" tvg-logo="" group-title="Arabic FTA",AR: MBC3
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC4" tvg-logo="" group-title="Arabic FTA",AR: MBC4
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC ACTION" tvg-logo="" group-title="Arabic FTA",AR: MBC ACTION
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MBC MAX" tvg-logo="" group-title="Arabic FTA",AR: MBC MAX
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ZEE AFLAM" tvg-logo="" group-title="Arabic FTA",AR: ZEE AFLAM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ZEE ALWAN" tvg-logo="" group-title="Arabic FTA",AR: ZEE ALWAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Almaghribia" tvg-logo="" group-title="Arabic FTA",AR: Almaghribia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ABU DHABI TV HD" tvg-logo="" group-title="Arabic FTA",AR: ABU DHABI TV HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AD DRAMA" tvg-logo="" group-title="Arabic FTA",AR: AD DRAMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sport 1HD" tvg-logo="" group-title="Arabic FTA",AR: AD Sport 1HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/2759.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AD Sport 2HD" tvg-logo="" group-title="Arabic FTA",AR: AD Sport 2HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/2760.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Aghani" tvg-logo="" group-title="Arabic FTA",AR: Aghani
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL alam" tvg-logo="" group-title="Arabic FTA",AR: AL alam
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL ARABIYA" tvg-logo="" group-title="Arabic FTA",AR: AL ARABIYA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Dafra" tvg-logo="" group-title="Arabic FTA",AR: Al Dafra
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL EMARAT TV" tvg-logo="" group-title="Arabic FTA",AR: AL EMARAT TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Fajer" tvg-logo="" group-title="Arabic FTA",AR: Al Fajer
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/2749.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Fayhaa" tvg-logo="" group-title="Arabic FTA",AR: Al Fayhaa
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7457.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Forat" tvg-logo="" group-title="Arabic FTA",AR: Al Forat
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL Ghad Alaraby" tvg-logo="" group-title="Arabic FTA",AR: AL Ghad Alaraby
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL HAYAT" tvg-logo="" group-title="Arabic FTA",AR: AL HAYAT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Hiwar" tvg-logo="" group-title="Arabic FTA",AR: Al Hiwar
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al hurra" tvg-logo="" group-title="Arabic FTA",AR: Al hurra
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL Jadeed" tvg-logo="" group-title="Arabic FTA",AR: AL Jadeed
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7742.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL JAZEERA" tvg-logo="" group-title="Arabic FTA",AR: AL JAZEERA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL JAZEERA DOCUMENTRY" tvg-logo="" group-title="Arabic FTA",AR: AL JAZEERA DOCUMENTRY
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL JAZZERA MUBASHER" tvg-logo="" group-title="Arabic FTA",AR: AL JAZZERA MUBASHER
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Manar" tvg-logo="" group-title="Arabic FTA",AR: Al Manar
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Massar" tvg-logo="" group-title="Arabic FTA",AR: Al Massar
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL MAYADEEN" tvg-logo="" group-title="Arabic FTA",AR: AL MAYADEEN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6668.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Rafidain" tvg-logo="" group-title="Arabic FTA",AR: Al Rafidain
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL RAHMA" tvg-logo="" group-title="Arabic FTA",AR: AL RAHMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Rasheed" tvg-logo="" group-title="Arabic FTA",AR: Al Rasheed
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Rayyan HD" tvg-logo="" group-title="Arabic FTA",AR: Al Rayyan HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Ressala" tvg-logo="" group-title="Arabic FTA",AR: Al Ressala
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL SHARJAH HD" tvg-logo="" group-title="Arabic FTA",AR: AL SHARJAH HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL SHARQIYA" tvg-logo="" group-title="Arabic FTA",AR: AL SHARQIYA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="" group-title="Arabic FTA",AR: AL SHARQIYA NEWS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al Sumariya" tvg-logo="" group-title="Arabic FTA",AR: Al Sumariya
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL-MUSTAKILA" tvg-logo="" group-title="Arabic FTA",AR: AL-MUSTAKILA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL-NAHAR AL YOUM" tvg-logo="" group-title="Arabic FTA",AR: AL-NAHAR AL YOUM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al-Nahar Cinema" tvg-logo="" group-title="Arabic FTA",AR: Al-Nahar Cinema
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL-NAHAR DRAMA" tvg-logo="" group-title="Arabic FTA",AR: AL-NAHAR DRAMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALAAN TV" tvg-logo="" group-title="Arabic FTA",AR: ALAAN TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANIS" tvg-logo="" group-title="Arabic FTA",AR: ALANIS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR : Alarabia Alhadath HD" tvg-logo="" group-title="Arabic FTA",AR : Alarabia Alhadath HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALBILAD" tvg-logo="" group-title="Arabic FTA",AR: ALBILAD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Algerie 3" tvg-logo="" group-title="Arabic FTA",AR: Algerie 3
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alhadef Algerie" tvg-logo="" group-title="Arabic FTA",AR: Alhadef Algerie
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4987.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alhayat Muslsalat" tvg-logo="" group-title="Arabic FTA",AR: Alhayat Muslsalat
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alkass Sport 1 HD" tvg-logo="" group-title="Arabic FTA",AR: Alkass Sport 1 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alkass Sport 2 HD" tvg-logo="" group-title="Arabic FTA",AR: Alkass Sport 2 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alkass Sport 3 HD" tvg-logo="" group-title="Arabic FTA",AR: Alkass Sport 3 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Alkass Sport 4 HD" tvg-logo="" group-title="Arabic FTA",AR: Alkass Sport 4 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALRAI" tvg-logo="" group-title="Arabic FTA",AR: ALRAI
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Althanya" tvg-logo="" group-title="Arabic FTA",AR: Althanya
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Arriadia" tvg-logo="" group-title="Arabic FTA",AR: Arriadia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/5005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Attesisa  Tunisia" tvg-logo="" group-title="Arabic FTA",AR: Attesisa  Tunisia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: B4U Aflam" tvg-logo="" group-title="Arabic FTA",AR: B4U Aflam
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: B4U Plus" tvg-logo="" group-title="Arabic FTA",AR: B4U Plus
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BAHRAIN" tvg-logo="" group-title="Arabic FTA",AR: BAHRAIN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BAHRAIN 55" tvg-logo="" group-title="Arabic FTA",AR: BAHRAIN 55
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BAHRAIN INT" tvg-logo="" group-title="Arabic FTA",AR: BAHRAIN INT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BAHRAIN SPORTS 2" tvg-logo="" group-title="Arabic FTA",AR: BAHRAIN SPORTS 2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BARAEM Bein" tvg-logo="" group-title="Arabic FTA",AR: BARAEM Bein
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BBC-ARABIC" tvg-logo="" group-title="Arabic FTA",AR: BBC-ARABIC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEUR TV" tvg-logo="" group-title="Arabic FTA",AR: BEUR TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bzaf Live" tvg-logo="" group-title="Arabic FTA",AR: Bzaf Live
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CAIRO AFLAM" tvg-logo="" group-title="Arabic FTA",AR: CAIRO AFLAM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CAIRO CINEMA" tvg-logo="" group-title="Arabic FTA",AR: CAIRO CINEMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CAIRO DRAMA 1" tvg-logo="" group-title="Arabic FTA",AR: CAIRO DRAMA 1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CAIRO one" tvg-logo="" group-title="Arabic FTA",AR: CAIRO one
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CANAL ALGERIE" tvg-logo="" group-title="Arabic FTA",AR: CANAL ALGERIE
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4980.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Cartoon Network Arabic" tvg-logo="" group-title="Arabic FTA",AR: Cartoon Network Arabic
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CBC" tvg-logo="" group-title="Arabic FTA",AR: CBC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6640.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CBC DRAMA" tvg-logo="" group-title="Arabic FTA",AR: CBC DRAMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CBC EXTRA" tvg-logo="" group-title="Arabic FTA",AR: CBC EXTRA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6638.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Dubai City 7" tvg-logo="" group-title="Arabic FTA",AR: Dubai City 7
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CBC 2" tvg-logo="" group-title="Arabic FTA",AR: CBC 2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CBC SOFRA" tvg-logo="" group-title="Arabic FTA",AR: CBC SOFRA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6635.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Cima" tvg-logo="" group-title="Arabic FTA",AR: Cima
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CNA" tvg-logo="" group-title="Arabic FTA",AR: CNA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: CNBC ARABIYA" tvg-logo="" group-title="Arabic FTA",AR: CNBC ARABIYA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6632.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Dijlah TV" tvg-logo="" group-title="Arabic FTA",AR: Dijlah TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8093.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Djazairia" tvg-logo="" group-title="Arabic FTA",AR: Djazairia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4982.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Dream" tvg-logo="" group-title="Arabic FTA",AR: Dream
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6631.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Dream2" tvg-logo="" group-title="Arabic FTA",AR: Dream2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI AL AOULA" tvg-logo="" group-title="Arabic FTA",AR: DUBAI AL AOULA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6629.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI ONE" tvg-logo="" group-title="Arabic FTA",AR: DUBAI ONE
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6628.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI RACING" tvg-logo="" group-title="Arabic FTA",AR: DUBAI RACING
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6627.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORTS 3" tvg-logo="" group-title="Arabic FTA",AR: DUBAI SPORTS 3
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6626.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORTS 4" tvg-logo="" group-title="Arabic FTA",AR: DUBAI SPORTS 4
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI ZAMAN" tvg-logo="" group-title="Arabic FTA",AR: DUBAI ZAMAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DW TV ARABIA" tvg-logo="" group-title="Arabic FTA",AR: DW TV ARABIA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6623.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Dzaier tv" tvg-logo="" group-title="Arabic FTA",AR: Dzaier tv
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DzairNews" tvg-logo="" group-title="Arabic FTA",AR: DzairNews
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Echourouk" tvg-logo="" group-title="Arabic FTA",AR: Echourouk
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Echourouk benna" tvg-logo="" group-title="Arabic FTA",AR: Echourouk benna
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4988.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Echourouk News" tvg-logo="" group-title="Arabic FTA",AR: Echourouk News
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ON Sport HD" tvg-logo="" group-title="Arabic FTA",AR: ON Sport HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ELBILAD" tvg-logo="" group-title="Arabic FTA",AR: ELBILAD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4985.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Elhiwar Ettounsi" tvg-logo="" group-title="Arabic FTA",AR: Elhiwar Ettounsi
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ENNAHAR LAKI" tvg-logo="" group-title="Arabic FTA",AR: ENNAHAR LAKI
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ENTV" tvg-logo="" group-title="Arabic FTA",AR: ENTV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: EURONEWS" tvg-logo="" group-title="Arabic FTA",AR: EURONEWS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: FRANCE 24" tvg-logo="" group-title="Arabic FTA",AR: FRANCE 24
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: FUNoon" tvg-logo="" group-title="Arabic FTA",AR: FUNoon
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: FUTURE TV" tvg-logo="" group-title="Arabic FTA",AR: FUTURE TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: HANNIBAL" tvg-logo="" group-title="Arabic FTA",AR: HANNIBAL
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6617.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Heya TV" tvg-logo="" group-title="Arabic FTA",AR: Heya TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: DUBAI SPORTS" tvg-logo="" group-title="Arabic FTA",AR: DUBAI SPORTS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Iraqia" tvg-logo="" group-title="Arabic FTA",AR: Iraqia
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: IRAQIA SPORT" tvg-logo="" group-title="Arabic FTA",AR: IRAQIA SPORT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Janoubiya" tvg-logo="" group-title="Arabic FTA",AR: Janoubiya
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: JEEM Bein" tvg-logo="" group-title="Arabic FTA",AR: JEEM Bein
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: JORDAN SPORTS" tvg-logo="" group-title="Arabic FTA",AR: JORDAN SPORTS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Jordan Today" tvg-logo="" group-title="Arabic FTA",AR: Jordan Today
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: JORDAN TV" tvg-logo="" group-title="Arabic FTA",AR: JORDAN TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Karamech" tvg-logo="" group-title="Arabic FTA",AR: Karamech
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KBC Algerie" tvg-logo="" group-title="Arabic FTA",AR: KBC Algerie
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KIDZANA" tvg-logo="" group-title="Arabic FTA",AR: KIDZANA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV CH1" tvg-logo="" group-title="Arabic FTA",AR: KTV CH1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV CH2" tvg-logo="" group-title="Arabic FTA",AR: KTV CH2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV ETHRAA" tvg-logo="" group-title="Arabic FTA",AR: KTV ETHRAA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV PLUS" tvg-logo="" group-title="Arabic FTA",AR: KTV PLUS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV Alarabi" tvg-logo="" group-title="Arabic FTA",AR: KTV Alarabi
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KTV SPORT" tvg-logo="" group-title="Arabic FTA",AR: KTV SPORT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LBC SAT" tvg-logo="" group-title="Arabic FTA",AR: LBC SAT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LDC" tvg-logo="" group-title="Arabic FTA",AR: LDC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA 218" tvg-logo="" group-title="Arabic FTA",AR: LIBYA 218
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA AL WATNYAH" tvg-logo="" group-title="Arabic FTA",AR: LIBYA AL WATNYAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA ALRASMEYA" tvg-logo="" group-title="Arabic FTA",AR: LIBYA ALRASMEYA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LIBYA ONE" tvg-logo="" group-title="Arabic FTA",AR: LIBYA ONE
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: LTC" tvg-logo="" group-title="Arabic FTA",AR: LTC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MAJESTIC CINEMA" tvg-logo="" group-title="Arabic FTA",AR: MAJESTIC CINEMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Majid Kids HD" tvg-logo="" group-title="Arabic FTA",AR: Majid Kids HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Mazzika" tvg-logo="" group-title="Arabic FTA",AR: Mazzika
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MECCA" tvg-logo="" group-title="Arabic FTA",AR: MECCA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MELODY CLASSIC" tvg-logo="" group-title="Arabic FTA",AR: MELODY CLASSIC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MIRACLE" tvg-logo="" group-title="Arabic FTA",AR: MIRACLE
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MODY KIDS" tvg-logo="" group-title="Arabic FTA",AR: MODY KIDS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MOGA COMEDY TV" tvg-logo="" group-title="Arabic FTA",AR: MOGA COMEDY TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Moutawaset" tvg-logo="" group-title="Arabic FTA",AR: Moutawaset
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4979.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MTA 3 AI  ARABIYAH" tvg-logo="" group-title="Arabic FTA",AR: MTA 3 AI  ARABIYAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: MTV LEBONAN" tvg-logo="" group-title="Arabic FTA",AR: MTV LEBONAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Music alhannen" tvg-logo="" group-title="Arabic FTA",AR: Music alhannen
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NAT GEO AD HD" tvg-logo="" group-title="Arabic FTA",AR: NAT GEO AD HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NBN HD" tvg-logo="" group-title="Arabic FTA",AR: NBN HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NEELAIN SPORTS" tvg-logo="" group-title="Arabic FTA",AR: NEELAIN SPORTS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nessma" tvg-logo="" group-title="Arabic FTA",AR: Nessma
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Cinema" tvg-logo="" group-title="Arabic FTA",AR: Nile Cinema
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Comedy" tvg-logo="" group-title="Arabic FTA",AR: Nile Comedy
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Culture" tvg-logo="" group-title="Arabic FTA",AR: Nile Culture
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Drama" tvg-logo="" group-title="Arabic FTA",AR: Nile Drama
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Family" tvg-logo="" group-title="Arabic FTA",AR: Nile Family
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Life" tvg-logo="" group-title="Arabic FTA",AR: Nile Life
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile News" tvg-logo="" group-title="Arabic FTA",AR: Nile News
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile Sport" tvg-logo="" group-title="Arabic FTA",AR: Nile Sport
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nile TV" tvg-logo="" group-title="Arabic FTA",AR: Nile TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NOON KIDS" tvg-logo="" group-title="Arabic FTA",AR: NOON KIDS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NOOR DUBAI" tvg-logo="" group-title="Arabic FTA",AR: NOOR DUBAI
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Nour Sham" tvg-logo="" group-title="Arabic FTA",AR: Nour Sham
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NOURSAT" tvg-logo="" group-title="Arabic FTA",AR: NOURSAT
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: NOURSAT Shebab" tvg-logo="" group-title="Arabic FTA",AR: NOURSAT Shebab
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OMAN HD" tvg-logo="" group-title="Arabic FTA",AR: OMAN HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OMAN TV Culture HD" tvg-logo="" group-title="Arabic FTA",AR: OMAN TV Culture HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OMAN TV General HD" tvg-logo="" group-title="Arabic FTA",AR: OMAN TV General HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OMAN TV Live HD" tvg-logo="" group-title="Arabic FTA",AR: OMAN TV Live HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Orient" tvg-logo="" group-title="Arabic FTA",AR: Orient
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7737.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Orient News" tvg-logo="" group-title="Arabic FTA",AR: Orient News
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: OTV" tvg-logo="" group-title="Arabic FTA",AR: OTV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Palestine" tvg-logo="" group-title="Arabic FTA",AR: Palestine
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Palestine Live" tvg-logo="" group-title="Arabic FTA",AR: Palestine Live
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PALESTINE-TODAY" tvg-logo="" group-title="Arabic FTA",AR: PALESTINE-TODAY
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PANORAMA COMEDY" tvg-logo="" group-title="Arabic FTA",AR: PANORAMA COMEDY
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PANORAMA DRAMA 2" tvg-logo="" group-title="Arabic FTA",AR: PANORAMA DRAMA 2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PANORAMA DRAMA1" tvg-logo="" group-title="Arabic FTA",AR: PANORAMA DRAMA1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PANORAMA FILM" tvg-logo="" group-title="Arabic FTA",AR: PANORAMA FILM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: PANORAMA FOOD" tvg-logo="" group-title="Arabic FTA",AR: PANORAMA FOOD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: QATAR TV" tvg-logo="" group-title="Arabic FTA",AR: QATAR TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ROTANA CINEMA" tvg-logo="" group-title="Arabic FTA",AR: ROTANA CINEMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ROTANA CLASSIC" tvg-logo="" group-title="Arabic FTA",AR: ROTANA CLASSIC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ROTANA CLIP" tvg-logo="" group-title="Arabic FTA",AR: ROTANA CLIP
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ROTANA KHALIJIAH" tvg-logo="" group-title="Arabic FTA",AR: ROTANA KHALIJIAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ROTANA MASRIYA" tvg-logo="" group-title="Arabic FTA",AR: ROTANA MASRIYA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: RT ARAB" tvg-logo="" group-title="Arabic FTA",AR: RT ARAB
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAFA TV" tvg-logo="" group-title="Arabic FTA",AR: SAFA TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAMA DUBAI" tvg-logo="" group-title="Arabic FTA",AR: SAMA DUBAI
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAMA TV" tvg-logo="" group-title="Arabic FTA",AR: SAMA TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SamiraTV" tvg-logo="" group-title="Arabic FTA",AR: SamiraTV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAT-7 ARABIC" tvg-logo="" group-title="Arabic FTA",AR: SAT-7 ARABIC
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAT-7 KIDS" tvg-logo="" group-title="Arabic FTA",AR: SAT-7 KIDS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI  NEWS HD" tvg-logo="" group-title="Arabic FTA",AR: SAUDI  NEWS HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI SPORTS" tvg-logo="" group-title="Arabic FTA",AR: SAUDI SPORTS
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI1 HD" tvg-logo="" group-title="Arabic FTA",AR: SAUDI1 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SAUDI2 HD" tvg-logo="" group-title="Arabic FTA",AR: SAUDI2 HD
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SELAA" tvg-logo="" group-title="Arabic FTA",AR: SELAA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SHABAB" tvg-logo="" group-title="Arabic FTA",AR: SHABAB
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SHABAB 4" tvg-logo="" group-title="Arabic FTA",AR: SHABAB 4
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Sharjah Sport" tvg-logo="" group-title="Arabic FTA",AR: Sharjah Sport
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Sky News Arabic" tvg-logo="" group-title="Arabic FTA",AR: Sky News Arabic
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Space Toon" tvg-logo="" group-title="Arabic FTA",AR: Space Toon
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: STAR CINEMA 1" tvg-logo="" group-title="Arabic FTA",AR: STAR CINEMA 1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: STAR CINEMA 2" tvg-logo="" group-title="Arabic FTA",AR: STAR CINEMA 2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SUDAN" tvg-logo="" group-title="Arabic FTA",AR: SUDAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SYRIA DRAMA" tvg-logo="" group-title="Arabic FTA",AR: SYRIA DRAMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Syria Satellite" tvg-logo="" group-title="Arabic FTA",AR: Syria Satellite
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SYRIAN EDUCATION" tvg-logo="" group-title="Arabic FTA",AR: SYRIAN EDUCATION
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TEN" tvg-logo="" group-title="Arabic FTA",AR: TEN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Teveza TUNISIA" tvg-logo="" group-title="Arabic FTA",AR: Teveza TUNISIA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TIME CINEMA" tvg-logo="" group-title="Arabic FTA",AR: TIME CINEMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TIME COMEDY" tvg-logo="" group-title="Arabic FTA",AR: TIME COMEDY
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TIME FILM" tvg-logo="" group-title="Arabic FTA",AR: TIME FILM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TIME QURAN" tvg-logo="" group-title="Arabic FTA",AR: TIME QURAN
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TOKTOK AFLAM" tvg-logo="" group-title="Arabic FTA",AR: TOKTOK AFLAM
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TOKTOK CIMA" tvg-logo="" group-title="Arabic FTA",AR: TOKTOK CIMA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tounesna" tvg-logo="" group-title="Arabic FTA",AR: Tounesna
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Toyor Baby" tvg-logo="" group-title="Arabic FTA",AR: Toyor Baby
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TOYORALJANAH" tvg-logo="" group-title="Arabic FTA",AR: TOYORALJANAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TOYOUR ALJANAH" tvg-logo="" group-title="Arabic FTA",AR: TOYOUR ALJANAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/7740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TRT Arabic" tvg-logo="" group-title="Arabic FTA",AR: TRT Arabic
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tunisia Nat 1" tvg-logo="" group-title="Arabic FTA",AR: Tunisia Nat 1
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Tunisia Nat 2" tvg-logo="" group-title="Arabic FTA",AR: Tunisia Nat 2
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TV Coran DZ" tvg-logo="" group-title="Arabic FTA",AR: TV Coran DZ
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: WANASAH" tvg-logo="" group-title="Arabic FTA",AR: WANASAH
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/8095.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Watan Dzair" tvg-logo="" group-title="Arabic FTA",AR: Watan Dzair
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/4996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: WESAL" tvg-logo="" group-title="Arabic FTA",AR: WESAL
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: YAS Sports" tvg-logo="" group-title="Arabic FTA",AR: YAS Sports
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: YEMEN Saida" tvg-logo="" group-title="Arabic FTA",AR: YEMEN Saida
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: YEMEN SHAHAB" tvg-logo="" group-title="Arabic FTA",AR: YEMEN SHAHAB
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: YEMEN TODAY TV" tvg-logo="" group-title="Arabic FTA",AR: YEMEN TODAY TV
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ZAYTOONA" tvg-logo="" group-title="Arabic FTA",AR: ZAYTOONA
+http://client-proiptv.com:8080/live/EWeGJAxQay/m9aejx5cTt/6508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ZITOUNA HEDAYA" tvg-logo="" group-title="Arabic FTA",AR: ZITOUNA HEDAYA
